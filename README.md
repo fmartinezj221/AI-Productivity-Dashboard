@@ -75,6 +75,6 @@ npm start
 
 ## 👨‍💻 Author
 
-Built by Frankie Martinez
+Built as part of my journey into software development, focusing on building real-world applications and strengthening my React and JavaScript skills. -Frankie Martinez
 
 ---
